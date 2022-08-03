@@ -35,9 +35,9 @@ node compile.js
 
 ### Deploying contract:
 
-    Remember to update those lines in `deploy.js`: 
+Remember to update those lines in `deploy.js`: 
 
 ![image](https://user-images.githubusercontent.com/11446164/182683778-879e46c2-88de-4b7b-9690-3bb33a092dbb.png)
 
 
-node deploy.js
+    node deploy.js
